@@ -7,10 +7,7 @@
 ### Java ###
   * https://github.com/lastfm/moji
   * https://github.com/eml/java-mogilefs
-  * https://github.com/ash2k/java-mogilefs
-  * https://github.com/davidsheldon/java-mogilefs
-  * https://github.com/victori/java-mogilefs
-  * https://github.com/webkiller71/java-mogilefs
+
 ### Ruby ###
   * http://bogomips.org/mogilefs-client/
 ### PHP ###
