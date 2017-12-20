@@ -1,6 +1,3 @@
-﻿#summary Front page to MogileFS wiki
-#labels Featured
-
 # MogileFS #
 
 ... is an anagram of OMG FILES! MogileFS is a non-POSIX distributed filestore. See [HighLevelOverview](HighLevelOverview.md) for an intro to what it is. See also [Danga](http://www.danga.com/mogilefs/) for a set of examples.
@@ -69,4 +66,4 @@
 
 # Contributing to the Wiki #
 
-Have some mogile-y wisdom you want to share? Please do! Contact the mailing list with a request for wiki access, or simply post what you want posted. Someone will hook you up.
+Have some mogile-y wisdom you want to share? Please do! Just send PR here.
