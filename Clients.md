@@ -21,6 +21,6 @@
   * http://projects.usrportage.de/index.fcgi/php-mogilefs
   * https://code.google.com/p/mogilefs-php-client/
 ### Python ###
-  * http://www.albany.edu/~ja6447/mogilefs.py
   * https://github.com/csakatoku/python-mogilefs-client
-  * https://github.com/AloneRoad/pymogile
+  * https://github.com/AloneRoad/pymogile (Not compatible to python 3.5)
+  * https://github.com/bwind/pymogilefs (Compatible with Python versions 2.7 and 3.3-3.5.)
