@@ -9,3 +9,4 @@
   * http://jayant7k.blogspot.com/2009/10/installing-mogilefs-for-dummies.html
   * http://hathawaymix.org/Weblog/2005-10-17
   * http://d.hatena.ne.jp/happs/20110116/1295188599 (blogpost in japanese about installing MogileFS)
+  * https://www.slideshare.net/petertc/mogilefs-69295127 (Mogilefs, 簡約可靠的儲存方案)
