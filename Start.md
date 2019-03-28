@@ -44,6 +44,7 @@
 
   * [Quick Overview of Serving a File](ServingOverview.md)
 
+  * [DB schema](https://github.com/mogilefs/MogileFS-Server/blob/master/lib/MogileFS/Store.pm#L591)
   * [Development Roadmap](Roadmap.md)
 
   * [Using Nginx as a Storage Server](nginx_webdav.md)
