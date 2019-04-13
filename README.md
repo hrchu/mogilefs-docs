@@ -65,6 +65,6 @@
 ---
 
 
-# Contributing to the Wiki #
+# Contributing #
 
 Have some mogile-y wisdom you want to share? Please do! Just send PR here.
