@@ -18,3 +18,7 @@
   * https://github.com/AloneRoad/pymogile (Not compatible to python 3.5)
   * https://github.com/bwind/pymogilefs (Compatible with Python versions 2.7 and 3.3-3.5.)
   * https://github.com/hrchu/pymogilefs (Add some tracker management functions such as load balancing, test on borrow, and fault tolerance)
+
+### Golang ###
+  * https://github.com/adrian-bl/golang-mogilefs-client
+  * https://github.com/apalmblad/gomog
