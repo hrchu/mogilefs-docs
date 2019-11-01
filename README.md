@@ -8,9 +8,11 @@
 
   * [Detailed Install Guide](InstallHowTo.md)
 
-  * [Ubuntu Install Instructions](InstallOnUbuntu.md)
-
   * [Install From CPAN](InstallFromCPAN.md)
+
+  * [Ubuntu Install Instructions](InstallOnUbuntu.md)
+  
+  * [Docker Install Instructions](InstallOnDocker.md)
 
   * [HOWTO use Nginx as a reverse proxy](nginx_reverseproxy.md)
 
