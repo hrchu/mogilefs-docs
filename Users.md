@@ -179,6 +179,37 @@ SuperMicro 6017R-WRF
 LSI MegaRAID 9260-4I 4-Port 6Gb/s SATA/SAS PCI-E 8
 2 x 15k 2TB SATA3 Disks in RAID 1
 
+## GMO Pepabo, Inc. ##
+
+Basic info:
+
+  * Company name : GMO Pepabo, Inc.
+  * Company website : https://pepabo.com/en/
+  * Using mogile since : April 2008
+
+Using scene: We has been using MogileFS in "30days Album"( https://30d.jp/ ) since April 2008.
+
+  * Cluster size (hosts, devices)
+    * 13 hosts
+      * 3 x tracker nodes
+      * 10 x storage nodes
+    * 408 HDDs
+    * 3.28 PB total storage
+  * Rough number of files stored
+    * Over 6 Billion of image files
+  * Number of trackers
+    * 3 trackers
+  * Type of hardware
+    * tracker nodes
+      * DELL PowerEdge R430
+      * 2 x Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
+      * 4 x 16GB RAM
+      * 1 x SAMSUNG SM863A 480GB
+    * storage nodes
+      * SuperMicro SuperStorage 6049P-E1CR36L
+      * Intel(R) Xeon(R) Bronze 3104 CPU @ 1.70GHz
+      * 2 x 16GB RAM
+      * 1 x SATADOM 64GB
 
 ## Your company here ##
 
