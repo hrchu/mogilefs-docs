@@ -8,7 +8,7 @@ MogileFS releases are uploaded to the CPAN at regular intervals, and is comprise
   * [MogileFS::Client](http://search.cpan.org/dist/MogileFS-Client/)
   * [MogileFS::Utils](http://search.cpan.org/dist/MogileFS-Utils/)
 
-There are many other supportive packages, and is a good idea to [look at all of them](http://search.cpan.org/search?query=MogileFS&mode=dist).
+There are many other supportive packages, and is a good idea to [look at all of them](https://metacpan.org/search?q=MogileFS).
 
 
 ---
