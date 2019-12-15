@@ -1,10 +1,6 @@
 # How To Setup MogileFS #
 
-Version: 0.08, November 29, 2009
-
 Author: Brett G. Durrett (first name at last name dot net)
-
-Source: http://durrett.net/mogilefs_setup.html
 
 ## Overview ##
 

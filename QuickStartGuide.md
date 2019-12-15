@@ -1,3 +1,6 @@
+*Update: you only have a minute? Try to [create a MogileFS Setup in 30 seconds](https://github.com/mogilefs/mogilefs-wiki/blob/wiki/InstallOnDocker.md) in the container's way.*
+
+
 # Creating a MogileFS Test Setup in 15 Minutes #
 
 Want to play with the MogileFS API? Want to help write code, test patches, fix

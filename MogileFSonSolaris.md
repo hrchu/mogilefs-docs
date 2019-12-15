@@ -12,6 +12,6 @@ The included guide replaces mogstored with nginx for get/put support.
 
 **As of 2.37 mogstored runs great on Nexenta CP 2 and 3**
 
-**I recommend the updated guide [MogileFSonNexentaCP](http://code.google.com/p/mogilefs/wiki/MogileFSonNexentaCP)**
+**I recommend the updated guide [MogileFSonNexentaCP](MogileFSonNexentaCP.md)**
 
 ---

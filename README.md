@@ -1,6 +1,6 @@
 # MogileFS #
 
-... is an anagram of OMG FILES! MogileFS is a non-POSIX distributed filestore. See [HighLevelOverview](HighLevelOverview.md) for an intro to what it is. See also [Danga](http://www.danga.com/mogilefs/) for a set of examples.
+... is an anagram of OMG FILES! MogileFS is a non-POSIX distributed filestore. See [HighLevelOverview](HighLevelOverview.md) for an intro to what it is. 
 
 ## Install Guides ##
 
@@ -8,9 +8,11 @@
 
   * [Detailed Install Guide](InstallHowTo.md)
 
-  * [Ubuntu Install Instructions](InstallOnUbuntu.md)
-
   * [Install From CPAN](InstallFromCPAN.md)
+
+  * [Ubuntu Install Instructions](InstallOnUbuntu.md)
+  
+  * [Docker Install Instructions](InstallOnDocker.md)
 
   * [HOWTO use Nginx as a reverse proxy](nginx_reverseproxy.md)
 

@@ -22,3 +22,6 @@
 ### Golang ###
   * https://github.com/adrian-bl/golang-mogilefs-client
   * https://github.com/apalmblad/gomog
+
+### Node.js / Javascript ###
+  * https://github.com/headzoo/node-mogile
