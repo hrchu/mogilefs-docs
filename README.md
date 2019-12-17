@@ -39,13 +39,10 @@
   * [Quick Overview of Serving a File](ServingOverview.md)
 
   * [DB schema](https://github.com/mogilefs/MogileFS-Server/blob/master/lib/MogileFS/Store.pm#L591)
-  * [Development Roadmap](Roadmap.md)
+  
+  * [Philosophy of Choosing Hardware](Hardware.md)
 
   * [Using Nginx as a Storage Server](nginx_webdav.md)
-
-  * [HOWTO use Nginx as a reverse proxy](nginx_reverseproxy.md)
-
-  * [Philosophy of Choosing Hardware](Hardware.md)
 
   * [HOWTO install dedicated storage nodes on Solaris/ZFS](MogileFSonSolaris.md)
   
