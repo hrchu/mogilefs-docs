@@ -1,4 +1,27 @@
-You can use [Nginx](https://www.nginx.com) to serve files instead of build-in one in mogstored.
+Alternatively, you can use other webdav servers to serve files instead of build-in one in mogstored.
+
+# Apache2
+
+```
+<VirtualHost 0.0.0.0:7500>
+    DocumentRoot /home/mog-data
+    <Location />
+        Dav On
+        ContentDigest on
+    </Location>
+    <Directory /home/mog-data>
+        Options +Indexes +FollowSymLinks
+	Require all granted
+    </Directory>
+    ContentDigest on
+    ErrorLog /var/log/apache2/error.log
+    # Possible values include: debug, info, notice, warn, error, crit, alert, emerg.
+    LogLevel debug
+    # CustomLog /var/log/apache2/access.log combined
+</VirtualHost>
+```
+
+# Nginx
 
 ## nginx configuration file - separate port for GET requests ##
 
