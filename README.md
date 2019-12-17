@@ -2,9 +2,9 @@
 
 ... is an anagram of OMG FILES! MogileFS is a non-POSIX distributed filestore. See [HighLevelOverview](HighLevelOverview.md) for an intro to what it is. 
 
-## Install Guides ##
+Furthermore, read our [Getting Started with MogileFS](QuickStartGuide.md) guide to have a try.
 
-  * [Quick Install for Testing/Development](QuickStartGuide.md)
+## Install Guides ##  
 
   * [Detailed Install Guide](InstallHowTo.md)
 
