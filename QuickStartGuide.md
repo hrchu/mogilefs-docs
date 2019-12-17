@@ -1,10 +1,10 @@
 Want to have a try? Follow the guide below to quickly build a test instance.
 
-# Creating a MogileFS Test Setup #
+## Creating a MogileFS Test Setup ##
 
 First of all, you should create a MogileFS setup for test. We recommand the following two options: 
-* [Create a MogileFS Setup in the container's way](InstallOnDocker.md) 
-* [Creating a MogileFS Test Setup manually](InstallForTest.md)
+* [Create a MogileFS setup in the container's way](InstallOnDocker.md) 
+* [Creating a MogileFS test setup manually](InstallForTest.md)
 
 Choose one whatever you like.
 
