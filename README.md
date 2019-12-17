@@ -6,7 +6,7 @@ Furthermore, read our [Getting Started with MogileFS](QuickStartGuide.md) guide 
 
 ## Install Guides ##  
 
-  * [Detailed Install Guide](InstallHowTo.md)
+  * [Install Guide](InstallHowTo.md)
 
   * [Ubuntu Install Instructions](InstallOnUbuntu.md)
   
