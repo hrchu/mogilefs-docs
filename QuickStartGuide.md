@@ -1,4 +1,4 @@
-Want to have a try? Follow the guide below to quickly build a test instance.
+Want to have a try? Follow the guide below to quickly build a test instance .
 
 ## Creating a MogileFS Test Setup ##
 
