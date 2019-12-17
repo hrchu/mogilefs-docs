@@ -1,6 +1,9 @@
 # Introduction #
+This guide shows you how to set up a dedicated MogileFS storage server on Nexenta CP. As of MogileFS 2.36 MogileFS runs great on Nexenta CP 2 and 3. I've tested this on Nexenta CP 2 and it probably works on Opensolaris as well. This will only provide a storage server. You still need a tracker box somewhere. This is unsupported by the core MogileFS devs and you should probably understand how it works before you deploy it.
 
-As of MogileFS 2.36 MogileFS runs great on Nexenta CP 2 and 3. This guide shows you how to install nginx for get/put and use mogstored for usage, iostat, and FSCK fid stat'ing. The benefit of running on Nexenta is you can use ZFS for your filesystems and get all the benefits it offers.
+The main reason for running MogileFS on Solaris is to use ZFS for storing files. ZFS checksums all the data so bit-rot can be found.
+
+In the following section, we will setup nginx and mogstored Nexenta CP. We use nginx for get/put and use mogstored for usage, iostat, and FSCK fid stat'ing.
 
 # Dependencies #
 
@@ -9,10 +12,7 @@ You'll need libwww-perl, libdbd-mysql-perl, zip, unzip, libprce-dev, and zlib-de
 apt-get install libwww-perl libdbd-mysql-perl zip unzip libprce-dev zlib-dev
 ```
 
-
-# Download #
-
-[Nginx](http://nginx.org/en/download.html) I recommend the 1.0 stable branch
+You also need [Nginx](http://nginx.org/en/download.html) I recommend the 1.0 stable branch
 
 
 ---
