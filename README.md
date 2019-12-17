@@ -42,7 +42,7 @@ Furthermore, read our [Getting Started with MogileFS](QuickStartGuide.md) guide 
   
   * [Philosophy of Choosing Hardware](Hardware.md)
 
-  * [Using Nginx as a Storage Server](nginx_webdav.md)
+  * [Using Nginx/Apache2 as a Storage Server](webdav_configuration.md)
 
   * [Setup a Storage Node on Nexenta/ZFS](MogileFSonNexentaCP.md)
   
