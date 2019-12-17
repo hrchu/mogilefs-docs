@@ -8,17 +8,9 @@
 
   * [Detailed Install Guide](InstallHowTo.md)
 
-  * [Install From CPAN](InstallFromCPAN.md)
-
   * [Ubuntu Install Instructions](InstallOnUbuntu.md)
   
   * [Docker Install Instructions](InstallOnDocker.md)
-
-  * [HOWTO use Nginx as a reverse proxy](nginx_reverseproxy.md)
-
-  * [Philosophy of Choosing Hardware](Hardware.md)
-
-  * [HOWTO install dedicated storage nodes on Solaris/ZFS](MogileFSonSolaris.md)
 
 ## Usage Guides ##
 
@@ -51,6 +43,12 @@
 
   * [Using Nginx as a Storage Server](nginx_webdav.md)
 
+  * [HOWTO use Nginx as a reverse proxy](nginx_reverseproxy.md)
+
+  * [Philosophy of Choosing Hardware](Hardware.md)
+
+  * [HOWTO install dedicated storage nodes on Solaris/ZFS](MogileFSonSolaris.md)
+  
   * [Client API Implementations](Clients.md)
 
   * [3rd party Add-ons or Plugins](Addons.md)
