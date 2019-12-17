@@ -44,7 +44,7 @@ Furthermore, read our [Getting Started with MogileFS](QuickStartGuide.md) guide 
 
   * [Using Nginx as a Storage Server](nginx_webdav.md)
 
-  * [HOWTO install dedicated storage nodes on Solaris/ZFS](MogileFSonSolaris.md)
+  * [Setup a Storage Node on Nexenta/ZFS](MogileFSonNexentaCP.md)
   
   * [Client API Implementations](Clients.md)
 
