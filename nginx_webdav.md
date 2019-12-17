@@ -1,11 +1,4 @@
-# Summary #
-Version: 0.02, November 29, 2009
-
-Author: Mazursky Mikhail (ash2kk at gmail dot com)
-
-About nginx in english: http://nginx.org/
-
-In russian: http://sysoev.ru/nginx/
+You can use [Nginx](https://www.nginx.com) to serve files instead of build-in one in mogstored.
 
 ## nginx configuration file - separate port for GET requests ##
 
