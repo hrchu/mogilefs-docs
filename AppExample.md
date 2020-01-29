@@ -1,5 +1,3 @@
-
-
 # Simple Application Example #
 
 If you fetch the MogileFS::Server tarball from 2.46 or later, you will find an

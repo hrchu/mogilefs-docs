@@ -5,7 +5,7 @@ The main reason for running MogileFS on Solaris is to use ZFS for storing files.
 
 In the following section, we will setup nginx and mogstored Nexenta CP. We use nginx for get/put and use mogstored for usage, iostat, and FSCK fid stat'ing.
 
-# Dependencies #
+## Dependencies 
 
 You'll need libwww-perl, libdbd-mysql-perl, zip, unzip, libprce-dev, and zlib-dev.
 ```
@@ -15,10 +15,8 @@ apt-get install libwww-perl libdbd-mysql-perl zip unzip libprce-dev zlib-dev
 You also need [Nginx](http://nginx.org/en/download.html) I recommend the 1.0 stable branch
 
 
----
 
-
-# Installation #
+## Installation 
 
 1) Setup your zpools. You can do a single zpool per disk (no redundancy but zfs will notify you when a file is corrupt), or you can setup a raid type zpool. Either way the zpool must be named devXXX for the mogile device id you're using and must be mounted at /var/mogdata/devXXX. You can't have any children filesystems in the zpool.
 Sample zpool creation and zfs creation

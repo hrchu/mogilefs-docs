@@ -1,22 +1,21 @@
-This document is intended to provide a step-by-step guide to setting up a test instance and have try.
+# Quick Start Guide
+This document is intended to provide a minimal guide to setting up a test instance and have try. We want you to be successful in as short a time as possible.
 
-# Step 1: Creating a MogileFS Test Setup 
+## Creating a MogileFS cluster for test 
 
-First of all, you should create a MogileFS setup for test. We recommand the following two options: 
-* [Create a MogileFS setup in the container's way](InstallOnDocker.md) 
-* [Creating a MogileFS test setup manually](InstallForTest.md)
+We have two options here: 
+* [Using docker to deploy MogileFS](InstallOnDocker.md) 
+* [Deploying MogileFS manually](InstallForTest.md)
 
-Choose one whatever you like.
+If you feel comfortable with docker, we recommend the first one. Alternatively, you can install it manually by following the second option.
+ 
+## Have fun with your first MogileFS cluster 
 
-If you would like a more detailed walkthrough with instructions for installing using different methods (in local virtual machines, EC2 and baremetal) and different distributions, then have a look at the Install guide.
+After you deploy MogileFS by following steps above, follow the [command line usage](CommandlineUsage.md) guide to upload/fetch/delete files to/from MogileFS.
 
-# Step 2: Try to play with MogileFS 
+## Further Reading
+If you would like a more detailed walkthrough with instructions for installing using different methods, e.g., virtual machines, EC2 and baremetal and different distributions, then have a look at the [Install Guide](InstallHowTo.md).
 
-You can use build-in command line tools to interact with MogileFS, e.g., upload/fetch/delete files. Please read the following guide:
 
-[Play with the commandline tools](CommandlineUsage.md)
 
-# Next step
-Got five more minutes? Read [Set up a full HTTP access example](AppExample.md).
-Ready to start hacking? [Developer guide](DeveloperGuide.md) for reference.
 

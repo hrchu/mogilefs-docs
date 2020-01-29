@@ -1,3 +1,5 @@
+# Developer Guide
+
 Want to play with the MogileFS API? Want to help write code, test patches, fix
 bugs? Head over to [Github](http://github.com/mogilefs/) (or if you're following a
 link from the mailing list, go there instead). Pick a repository (such as

@@ -1,6 +1,7 @@
+# Using Nginx/Apache2 as a Storage Server
 Alternatively, you can use other webdav servers to serve files instead of build-in one in mogstored.
 
-# Apache2
+## Apache2
 
 ```
 <VirtualHost 0.0.0.0:7500>
@@ -21,9 +22,9 @@ Alternatively, you can use other webdav servers to serve files instead of build-
 </VirtualHost>
 ```
 
-# Nginx
+## Nginx
 
-## nginx configuration file - separate port for GET requests ##
+### nginx configuration file - separate port for GET requests ##
 
 ```
 server
@@ -93,7 +94,7 @@ server
 }
 ```
 
-## nginx configuration file - single port for GET and WebDAV ##
+### nginx configuration file - single port for GET and WebDAV ##
 
 ```
 server

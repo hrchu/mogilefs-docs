@@ -1,8 +1,10 @@
 # MogileFS #
 
-... is an anagram of OMG FILES! MogileFS is a non-POSIX distributed filestore. See [HighLevelOverview](HighLevelOverview.md) for an intro to what it is. 
+... is an anagram of _OMG FILES!_ 
 
-Furthermore, read our [Getting Started with MogileFS](QuickStartGuide.md) guide to have a try.
+MogileFS is a scalable software-defined storage like Ceph, Openstack Swift and GlusterFS. MogileFS is suitable for data-intensive tasks such as cloud storage and media streaming. See [High Level Overview](HighLevelOverview.md) for an intro to what it is. 
+
+Read our [Getting Started Guide](QuickStartGuide.md) guide to have a try!
 
 ## Install Guides ##  
 

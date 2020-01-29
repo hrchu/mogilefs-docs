@@ -2,6 +2,7 @@
 
 There are certain use cases where running multiple MogileFS instances within an environment is desirable.  For example, you may want to maintain one instance in production and another elsewhere for development or testing.  The following information pertains to configuring and maintaining MogileFS in these deployments.
 
+-------------
 
 # Two Instance Deployment (Production/Development) #
 

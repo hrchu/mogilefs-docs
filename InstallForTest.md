@@ -1,16 +1,15 @@
-# Creating a MogileFS Test Setup in 15 Minutes #
+# Deploying MogileFS manually for test #
 
 Want to play with the MogileFS API? Want to help write code, test patches, fix
 bugs? Follow the guide below to quickly build a test instance.
 
-Assuming you have a debian, ubuntu, or redhat-y system. OS X will be similar
+Assuming you have a Debian, Ubuntu, or Redhat-y system. OS X will be similar
 but has some missing steps. For a more complete guide on how to set up an
 install of MogileFS, refer to the [InstallHowTo](InstallHowTo.md)
 
 No attempts to time this guide have actually been made; YMMV.
 
----
-
+## Howto
 
 Add a new local user and log into it
 ```
