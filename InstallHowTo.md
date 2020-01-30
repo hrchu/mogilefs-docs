@@ -37,7 +37,7 @@ It's highly advisable that you use a released version from CPAN. However, if
 bug hunting or interested, the latest code is on github:
 http://github.com/mogilefs/
 
-[Here](InstallFromCPAN) are some more details about installing mogilefs from CPAN, for reference.
+[Here](InstallFromCPAN.md) are some more details about installing mogilefs from CPAN, for reference.
 
 ### Installing Perl Module Dependencies ###
 
