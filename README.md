@@ -4,9 +4,9 @@
 
 MogileFS is a scalable software-defined storage like Ceph, Openstack Swift and GlusterFS. MogileFS is suitable for data-intensive tasks such as cloud storage and media streaming. See [High Level Overview](HighLevelOverview.md) for an intro to what it is. 
 
-Read our [Getting Started Guide](QuickStartGuide.md) guide to have a try!
+Read our [Getting Started](QuickStartGuide.md) guide to have a try!
 
-## Install Guides ##  
+## Installation ##  
 
   * [Install Guide](InstallHowTo.md)
 
@@ -14,15 +14,15 @@ Read our [Getting Started Guide](QuickStartGuide.md) guide to have a try!
   
   * [Docker Install Instructions](InstallOnDocker.md)
 
-## Usage Guides ##
+## Usage ##
 
   * [Using and Inspecting MogileFS From the Terminal](CommandlineUsage.md)
 
   * [Simple Walkthrough for Integrating and Using MogileFS](AppExample.md)
 
-  * [Build Your Application with Client API Implementations](Clients.md)
+  * [Build Your Application with Client Libraries](Clients.md)
   
-## Configuration Guides ##
+## Configuration ##
 
   * [Network Aware Replication (multi datacenter)](ConfigureMultiNet.md)
 
@@ -30,11 +30,17 @@ Read our [Getting Started Guide](QuickStartGuide.md) guide to have a try!
 
 ## Maintenance ##
 
+  * [Maintaining MogileFS](Maintenance.md)
+  
   * [Upgrading MogileFS](Upgrading.md)
 
-  * [Maintaining MogileFS](Maintenance.md)
+## Troubleshooting  ##
 
-## Information ##
+  * [Troubleshooting Common Issues](Troubleshooting.md)
+  
+  * [Getting Help from Mailing List](https://groups.google.com/forum/#!forum/mogile)
+  
+## Reference ##  
 
   * [High Level Overview](HighLevelOverview.md)
 
@@ -42,6 +48,12 @@ Read our [Getting Started Guide](QuickStartGuide.md) guide to have a try!
 
   * [DB schema](https://github.com/mogilefs/MogileFS-Server/blob/master/lib/MogileFS/Store.pm#L591)
   
+  * [Source code](https://github.com/mogilefs)
+
+  * [Glossary of Common Terms](Glossary.md)
+    
+## Other Information ##
+
   * [Philosophy of Choosing Hardware](Hardware.md)
 
   * [Using Nginx/Apache2 as a Storage Server](webdav_configuration.md)
@@ -54,9 +66,8 @@ Read our [Getting Started Guide](QuickStartGuide.md) guide to have a try!
 
   * [Articles about or mentioning MogileFS](Articles.md)
 
-  * [Glossary of Common Terms](Glossary.md)
 
-  * [Troubleshooting Common Issues](Troubleshooting.md)
+
 
 
 ---
@@ -64,4 +75,4 @@ Read our [Getting Started Guide](QuickStartGuide.md) guide to have a try!
 
 # Contributing #
 
-Have some mogile-y wisdom you want to share? Please do! Just send PR here.
+Have some mogile-y wisdom you want to share? Please do! Just send PR on our [document repo](https://github.com/mogilefs/mogilefs-wiki).
