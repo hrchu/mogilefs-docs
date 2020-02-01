@@ -20,6 +20,8 @@ Read our [Getting Started Guide](QuickStartGuide.md) guide to have a try!
 
   * [Simple Walkthrough for Integrating and Using MogileFS](AppExample.md)
 
+  * [Build Your Application with Client API Implementations](Clients.md)
+  
 ## Configuration Guides ##
 
   * [Network Aware Replication (multi datacenter)](ConfigureMultiNet.md)
@@ -45,8 +47,6 @@ Read our [Getting Started Guide](QuickStartGuide.md) guide to have a try!
   * [Using Nginx/Apache2 as a Storage Server](webdav_configuration.md)
 
   * [Setup a Storage Node on Nexenta/ZFS](MogileFSonNexentaCP.md)
-  
-  * [Client API Implementations](Clients.md)
 
   * [3rd party Add-ons or Plugins](Addons.md)
 

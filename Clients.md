@@ -1,4 +1,5 @@
-# Clients
+# Build Your Application with Client API Implementations
+Since MogileFS is a non-POSIX distributed service, it's easier to use one of client libraries listed here to integrate your application with MogileFS.
 
 ### Perl ###
   * [MogileFS::Client](http://search.cpan.org/dist/MogileFS-Client/)  - Client library for the MogileFS distributed file system
