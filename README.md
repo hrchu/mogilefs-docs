@@ -24,8 +24,6 @@ Read our [Getting Started Guide](QuickStartGuide.md) guide to have a try!
 
   * [Network Aware Replication (multi datacenter)](ConfigureMultiNet.md)
 
-  * [Multiple MogileFS Instance Deployments](MultipleInstanceDeployments.md)
-
   * [Server Settings Overview](ServerSettings.md)
 
 ## Maintenance ##
