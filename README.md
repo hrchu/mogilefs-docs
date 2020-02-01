@@ -10,10 +10,10 @@ Read our [Getting Started](QuickStartGuide.md) guide to have a try!
 
   * [Install Guide](InstallHowTo.md)
 
+  * [Docker Install Instructions](InstallOnDocker.md)
+  
   * [Ubuntu Install Instructions](InstallOnUbuntu.md)
   
-  * [Docker Install Instructions](InstallOnDocker.md)
-
 ## Usage ##
 
   * [Using and Inspecting MogileFS From the Terminal](CommandlineUsage.md)
